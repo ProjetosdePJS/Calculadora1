@@ -1,0 +1,18 @@
+c:\users\ifsp\documents\visual studio 2010\Projects\OpAritmeticos\OpAritmeticos\bin\Debug\OpAritmeticos.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\OpAritmeticos\OpAritmeticos\bin\Debug\OpAritmeticos.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\OpAritmeticos\OpAritmeticos\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2010\Projects\OpAritmeticos\OpAritmeticos\obj\x86\Debug\OpAritmeticos.Form1.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\OpAritmeticos\OpAritmeticos\obj\x86\Debug\OpAritmeticos.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\OpAritmeticos\OpAritmeticos\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\OpAritmeticos\OpAritmeticos\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\OpAritmeticos\OpAritmeticos\obj\x86\Debug\OpAritmeticos.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\OpAritmeticos\OpAritmeticos\obj\x86\Debug\OpAritmeticos.pdb
+C:\Users\ifsp\Desktop\OpAritmeticos\OpAritmeticos\obj\x86\Debug\OpAritmeticos.exe
+C:\Users\ifsp\Desktop\OpAritmeticos\OpAritmeticos\obj\x86\Debug\OpAritmeticos.pdb
+C:\Users\ifsp\Desktop\OpAritmeticos\OpAritmeticos\bin\Debug\OpAritmeticos.exe
+C:\Users\ifsp\Desktop\OpAritmeticos\OpAritmeticos\bin\Debug\OpAritmeticos.pdb
+C:\Users\ifsp\Desktop\OpAritmeticos\OpAritmeticos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ifsp\Desktop\OpAritmeticos\OpAritmeticos\obj\x86\Debug\OpAritmeticos.Form1.resources
+C:\Users\ifsp\Desktop\OpAritmeticos\OpAritmeticos\obj\x86\Debug\OpAritmeticos.Properties.Resources.resources
+C:\Users\ifsp\Desktop\OpAritmeticos\OpAritmeticos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ifsp\Desktop\OpAritmeticos\OpAritmeticos\obj\x86\Debug\GenerateResource.write.1.tlog
